@@ -20,6 +20,11 @@
 
 ### Divers
 
+| Commande | Description                                   | Exemple                        |
+| -------- | --------------------------------------------- | ------------------------------ |
+| `grep`   | Rechercher un mot dans un dossier ou fichier. | `grep "hey" file.txt`          |
+| `find`   | Trouver un fichier.                           | `find . -type f -name "*.txt"` |
+
 ## Les différents type de shell
 
 ### Installation
