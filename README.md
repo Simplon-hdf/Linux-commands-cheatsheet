@@ -1,26 +1,23 @@
-# Linux terminal cheat sheet
+# Linux terminal cheatsheet
 
-## Commands
+## Commandes
 
-### Navigation / Gestion de dossier
+### Navigation / Gestion de dossiers
 
-### Manipulation de fichier
+### Manipulation de fichiers
 
 ### Permissions
 
-| Commande             | Description                                         | Exemple                |
-| -------------------- | --------------------------------------------------- | ---------------------- |
-| `sudo`               | Exécuter une commade en tant que super utilisateur. | `sudo apt update`      |
-| `su - [Utilisateur]` | Changer d'utilisateur.                              | `su - root`            |
-| `visudo`             | Modifier le fichier sudoers.                        | `visudo`               |
-| `chmod`              | Modifier les permissions d'un utilisateur.          | `chmod 700 [file.txt]` |
-| `ls -l`              | Vérifier les permissions d'un dossier ou fichier.   | `ls -l [file.txt]`     |
+| Commande             | Description                                          | Exemple           |
+| -------------------- | ---------------------------------------------------- | ----------------- |
+| `sudo`               | Exécuter une commande en tant que super utilisateur. | `sudo apt update` |
+| `su - [Utilisateur]` | Changer d'utilisateur.                               | `su - root`       |
 
 ### Raccourcis
 
 ### Divers
 
-## Les différents type de shell
+## Bash vs zsh
 
 ### Installation
 
