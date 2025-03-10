@@ -264,6 +264,7 @@ bash-it theme set BarbUk
 
 #### 🚀 Oh My Zsh
 [📚 Documentation](https://github.com/ohmyzsh/ohmyzsh/wiki)
+
 [📄 Cheatsheet (Groupe d'Emerick)](https://simplon-hdf.github.io/cheatsheet-ohmyzsh-p5/)
 
 *Oh My Zsh est un framework open source et communautaire pour gérer la configuration Zsh, qui améliore Zsh avec des thèmes, des plugins et une configuration optimisée, rendant le terminal plus puissant et agréable à utiliser.*
